@@ -4,6 +4,7 @@ I learned how to code at the [neuefische coding bootcamp](https://www.neuefische
 
 - 👩‍🏫 Currently I am working as an assistant coach at said bootcamp!
 - 👩‍💻 I love everything related to CSS!
+- 🌱 I am currently learning a lot about Web Accessibility and Testing.
 
 [![macfrei's github stats](https://github-readme-stats.vercel.app/api?username=macfrei)](https://github.com/anuraghazra/github-readme-stats)
 
