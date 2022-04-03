@@ -1,8 +1,9 @@
-### Hi there, I'm Lene 👋
+### Hi there, I'm Marie-Carleen 👋
 
 I learned how to code at the [neuefische coding bootcamp](https://www.neuefische.de/) in 2019. 
 
-- 👩‍🏫 Currently I am working as an assistant coach at said bootcamp!
+- ⚡ My nickname is Lene :-)
+- 👩‍🏫 Currently I am working as web development coach at said bootcamp!
 - 👩‍💻 I love everything related to CSS!
 - 🌱 I am currently learning a lot about Web Accessibility and Testing.
 
