@@ -3,7 +3,8 @@
 I learned how to code at the [neuefische coding bootcamp](https://www.neuefische.de/) in 2019. 
 
 - ⚡ My nickname is Lene :-)
-- 👩‍🏫 Currently I am working as web development coach at said bootcamp!
+- 👩‍🏫 I have worked as a web development coach at said bootcamp!
+- 🕵️ Currently looking for a job in Japan - or remote.
 - 👩‍💻 I love everything related to CSS!
 - 🌱 I am currently learning a lot about Web Accessibility and Testing.
 
