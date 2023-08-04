@@ -3,11 +3,11 @@
 I learned how to code at the [neuefische coding bootcamp](https://www.neuefische.de/) in 2019. 
 
 - ⚡ My nickname is Lene :-)
-- 👩‍🏫 I have worked as a web development coach at said bootcamp!
-- 🕵️ Currently looking for a job in Japan - or remote.
-- 👩‍💻 I love everything related to CSS!
+- 👩‍💻 Currently working as a frontend engineer at [Siva Inc.](https://siva-s.com/) in Tokyo　👩‍💻
+- 📇 I have worked as a web development coach at said bootcamp!
+- 🌈 I love everything related to CSS and learning new things every day.
 - 🌱 I am currently learning a lot about Web Accessibility and Testing.
-- 🛠️ Check out [my _"not-yet-finished"_ website](https://www.mariecarleenkoizumi.com/)! 
+- 🛠️ Check out [my _"kind-of-finished"_ website](https://www.mariecarleenkoizumi.com/)! 
 
 [![macfrei's github stats](https://github-readme-stats.vercel.app/api?username=macfrei)](https://github.com/anuraghazra/github-readme-stats)
 
